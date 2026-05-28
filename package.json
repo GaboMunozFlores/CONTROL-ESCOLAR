@@ -1,0 +1,13 @@
+{
+  "name": "control-escolar",
+  "version": "1.0.0",
+  "description": "CRUD simple para registro de maestros",
+  "main": "controlMaestros.js",
+  "scripts": {
+    "start": "node controlMaestros.js",
+    "dev": "nodemon controlMaestros.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
